@@ -41,20 +41,6 @@
         <li class="treeview">
           <a href="#">
             <i class="fa fa-pie-chart"></i>
-            <span>Tahun Ajaran</span>
-            <span class="pull-right-container">
-              <i class="fa fa-angle-left pull-right"></i>
-            </span>
-          </a>
-          <ul class="treeview-menu" style="display: none;">
-            <li><a href="{{ url('master/tahun-ajaran') }}"><i class="fa fa-circle-o"></i> List Tahun Ajaran</a></li>
-            <li><a href="{{ url('master/tahun-ajaran/add') }}"><i class="fa fa-circle-o"></i> Tambah Tahun Ajaran</a></li>
-          </ul>
-        </li>
-
-        <li class="treeview">
-          <a href="#">
-            <i class="fa fa-pie-chart"></i>
             <span>Data jabatan</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
